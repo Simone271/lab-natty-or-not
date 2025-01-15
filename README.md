@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O BÁSICO SOBRE MUSCULAÇÃO
 
 ## 📒 Descrição
 Um ebook de 5 páginas sobre o básico de musculação.
