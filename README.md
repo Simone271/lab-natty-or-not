@@ -3,11 +3,11 @@
 ## 📒 Descrição
 Um ebook de 5 páginas sobre o básico de musculação.
 ## 🤖 Tecnologias Utilizadas
-* IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-* IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-* Ferramenta **Libre Office** para edição.
+* IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização do ebook;
+* IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a capa do ebook e mais uma imagem para colocar em uma das páginas;
+* Ferramenta **Libre Office** para edição das imagens e do texto.
 ## 🧐 Processo de Criação
-Usei o chatgpt para pesquisar sobre temas básicos da musculação, pedi para o Leonardo AI gerar imagens para utilizar na capa e no meio do ebooke depois fiz a estruturação do ebook no LibreOffice.
+Utilizei o chatgpt para pesquisar sobre temas básicos da musculação, pedi para o Leonardo AI gerar imagens para utilizar na capa e no meio do ebooke depois fiz a estruturação do ebook no LibreOffice.
 
 ## 🚀 Resultados
  **[LINK DO EBOOK](https://github.com/Simone271/lab-natty-or-not/blob/main/ebook.odt)**
