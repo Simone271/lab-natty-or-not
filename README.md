@@ -1,7 +1,7 @@
 # O BÁSICO SOBRE MUSCULAÇÃO
 
 ## 📒 Descrição
-Um ebook de 5 páginas sobre o básico de musculação.
+Um ebook de 6 páginas sobre o básico de musculação.
 ## 🤖 Tecnologias Utilizadas
 * IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização do ebook;
 * IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a capa do ebook e mais uma imagem para colocar em uma das páginas;
